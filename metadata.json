@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Text Chess",
+  "description": "A sophisticated chess application featuring textual move entry with real-time destination previews and full rule enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
